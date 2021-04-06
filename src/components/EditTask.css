@@ -1,0 +1,9 @@
+.modal-content{
+    border-radius: 10px;
+    
+}
+
+#contained-modal-title-vcenter{
+    font-weight: normal !important;
+    font-size: large !important;
+}
